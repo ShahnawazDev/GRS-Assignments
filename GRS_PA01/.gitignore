@@ -1,0 +1,32 @@
+# Compiled binaries - DO NOT COMMIT
+program_a
+program_b
+*.o
+*.out
+
+# Temporary files
+*.tmp
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Archives (keep source files, not zips)
+*.zip
+*.tar.gz
+*.tar
+
+# Virtual environments
+.venv/
+venv/
+__pycache__/
+
+# IDE folders
+.vscode/
+.idea/
