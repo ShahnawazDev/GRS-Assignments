@@ -4,3 +4,4 @@
 
 ## Assignments:
 1. [GRS_PA01](./GRS_PA01/)
+2. [GRS_PA02](./GRS_PA02/)
